@@ -8,10 +8,6 @@ from reusable components. The ``openstack_dashboard`` module is a reference
 implementation of a Django site that uses the ``horizon`` app to provide
 web-based interactions with the various OpenStack projects.
 
-* Release management: https://launchpad.net/horizon
-* Blueprints and feature specifications: https://blueprints.launchpad.net/horizon
-* Issue tracking: https://bugs.launchpad.net/horizon
-
 
 Using Horizon
 =============
